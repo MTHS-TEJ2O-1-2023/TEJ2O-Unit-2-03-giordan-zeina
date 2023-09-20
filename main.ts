@@ -7,3 +7,5 @@
 
 basic.clearScreen()
 basic.pause(1000)
+
+basic.showString("The area of a rectangle with the dimensions 5 cm and 3 cm" + (5 * 3))
